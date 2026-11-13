@@ -1,4 +1,3 @@
-Attempting to perform the InitializeDefaultDrives operation on the 'FileSystem' provider failed.
 # Inventario de equipos de cómputo
 
 Aplicación web escolar en PHP para registrar PCs de escritorio y laptops. Esta versión aplica herencia para compartir los datos comunes y agregar características propias a cada tipo.
@@ -64,4 +63,3 @@ Los registros se guardan en la sesión del navegador, no en una base de datos. L
 El repositorio privado del proyecto ya está creado en GitHub.
 
 [Repositorio en GitHub](https://github.com/tamersacro-glitch/actividad-3-herencia).
-
